@@ -43,3 +43,4 @@ class Sha256Class : public Print
 extern Sha256Class Sha256;
 
 #endif
+
